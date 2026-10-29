@@ -1,0 +1,4 @@
+interface:
+  display_name: "CV profesional ATS"
+  short_description: "Adapta CVs a ofertas laborales con evidencia"
+  default_prompt: "Usa $cvprofesional-skill para adaptar mi CV a esta oferta laboral."
